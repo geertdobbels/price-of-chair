@@ -1,3 +1,5 @@
+import os
+
 __author__ = 'Geert Dobbels'
 
 
